@@ -11,6 +11,6 @@ names: ['pose']
 roboflow:
   workspace: rtu-jdvrj
   project: yoga-poses-hz2cm
-  version: 5
+  version: 7
   license: Public Domain
-  url: https://universe.roboflow.com/rtu-jdvrj/yoga-poses-hz2cm/dataset/5
+  url: https://universe.roboflow.com/rtu-jdvrj/yoga-poses-hz2cm/dataset/7

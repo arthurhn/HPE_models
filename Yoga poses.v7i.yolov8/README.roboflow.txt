@@ -1,8 +1,8 @@
 
-Yoga poses - v5 2024-10-08 12:33am
+Yoga poses - v7 2024-12-01 4:53pm
 ==============================
 
-This dataset was exported via roboflow.com on October 8, 2024 at 12:33 AM GMT
+This dataset was exported via roboflow.com on December 1, 2024 at 7:57 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 16 images.
+The dataset includes 25 images.
 Poses are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
